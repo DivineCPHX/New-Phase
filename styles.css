@@ -1,0 +1,24 @@
+title{
+  font-family: inherit;
+  font-weight: bold;
+  text-align: center;
+  color: crimson;
+}
+p.first{
+  color: pink;
+  border: thin black 2px;
+  background-color: green;
+  text-align: inherit;
+}
+p.second{
+  color: white;
+  border: thin black 2px;
+  background-color: brown;
+  text-align: right;
+}
+p.third{
+  color: gray;
+  border: thin black 2px;
+  background-color: purple;
+  text-align: inherit;
+}
